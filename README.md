@@ -1,7 +1,7 @@
 # Challange Overview
 
 Create at least 3 screens of Search Form, Listings and Booking Summary for the below design. 
-[Link](Link: https://www.figma.com/file/dtLB2GPISrRUm8D6sh4auR/Celerity-Project?node-id=0%3A1&t=IlSIGK8NIm9hyZd8-1)
+[Link](https://www.figma.com/file/dtLB2GPISrRUm8D6sh4auR/Celerity-Project?node-id=0%3A1&t=IlSIGK8NIm9hyZd8-1)
 
 ## Solution Setup
 
