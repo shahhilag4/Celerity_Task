@@ -19,11 +19,12 @@ You may also see any lint errors in the console.
 There are two routes in the application :-
 1. / - Home Page
 2. /booking - Booking Summary (You can click on "Track Shipment" button in Home Page in deployed application to redirect)
-3. /listing - Listing of Flights page (You can click on "$" button in Home Page in deployed application to)
+3. /listing - Listing of Flights page (You can click on "$" button in Home Page in deployed application to redirect)
 # Stack Used 
 1. React
 2. JSX
 3. CSS
 
 # Note:
-Due to lack of time I could not complete the listing cards but have submitted a rough demo of implementation.
+1.Due to lack of time I could not complete the listing cards but have submitted a rough demo of implementation.
+2.Navigation of routes directly will not be possible in deployed application thus use the buttons for navigation (You can click on "Track Shipment" button in Home Page in deployed application to redirect to booking summary and You can click on "$" button in Home Page in deployed application to redirect to flight listing)
