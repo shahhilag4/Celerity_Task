@@ -7,6 +7,9 @@ Create at least 3 screens of Search Form, Listings and Booking Summary for the b
 
 In the project directory, you can run:
 
+### `npm install`
+To install all dependencies.
+
 ### `npm run start`
 
 Runs the app in the development mode.\
