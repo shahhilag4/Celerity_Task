@@ -1,0 +1,58 @@
+.progress1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 70%;
+    margin-bottom:5rem ;
+    margin-top: 2rem;
+  }
+  
+  .circle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .text-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 70%;
+  }
+  
+  .text {
+    font-size: 12px;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  .one,
+  .two,
+  .three,
+  .four {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #D3B0FF;
+    color: #FFFFFF;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hr-one,
+  .hr-two,
+  .hr-three {
+    margin: 0 auto;
+    width: 62%;
+    position: relative;
+    bottom: 8rem;
+    height: 1.5px;
+    border: none;
+    background-color: #D3B0FF;
+  }
+  

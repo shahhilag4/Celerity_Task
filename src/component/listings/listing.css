@@ -1,0 +1,147 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .filters {
+    width: 25%;
+  }
+  
+  .filters h6 {
+    font-weight:600;
+    font-size: smaller;
+    margin: 0 0 10px 0;
+  }
+  .filters h6 span{
+    font-size: smaller;
+    font-weight:300;
+  }
+  
+  .filters ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .filters li {
+    margin-bottom: 5px;
+    font-weight:600;
+  }
+  
+  .listings {
+    width: 75%;
+  }
+  
+  .listings h2 {
+    font-size: 24px;
+    margin: 0 0 10px 0;
+  }
+
+  
+  .card2 {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    display: flex !important;
+    flex-direction: row;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .card2 img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .card2 h3 {
+    font-size: 18px;
+    margin: 0 0 5px 0;
+  }
+  
+  .arrow1
+  {
+    margin-left: 4.5rem;
+  }
+  .arrow2
+  {
+    margin-left: 5rem;
+  }
+  .arrow3
+  {
+    margin-left: 4rem;
+  }
+  .arrow4
+  {
+    margin-left: 4.5rem;
+  }
+
+
+
+  .card2 p {
+    font-size: 14px;
+    margin: 0 0 10px 0;
+  }
+  
+  .card2 span {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .card2 button {
+    background-color:#a969f2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .card2 button:hover {
+    background-color: #D3B0FF;
+  }
+  
+  .flexing
+  {
+    display: flex;
+  }
+
+  .tabs {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  .tab2 {
+    padding: 10px;
+    font-size: small;
+    background-color: #decbf4;
+    border-radius: 0px 12px 12px 0;
+    cursor: pointer;
+}
+  .tab1 {
+    padding: 10px;
+    font-size: small;
+    border: 1px solid black;
+    border-radius: 12px 0px 0px 12px;
+    box-shadow:  2px 1px 20px #bbb;
+    cursor: pointer;
+  }
+  
+  .arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+  .partition-line {
+    margin: 1rem 0;
+    border: 0;
+    height: 10px;
+    background-color: #ccc;
+  }
+  

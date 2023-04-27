@@ -1,0 +1,81 @@
+.progress2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 70%;
+    margin-bottom:5rem ;
+    margin-top: 2rem;
+  }
+  
+  .circle-container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .text-container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 70%;
+  }
+  
+  .text2 {
+    font-size: 12px;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  .text3 {
+    font-size: 12px;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 600;
+    color: lightgray;
+  }
+  
+  .one2,
+  .two2,
+  .three2
+  {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #D3B0FF;
+    color: #FFFFFF;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .four2
+  {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #DDD;
+    color: #FFFFFF;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+
+  .hr-one2,
+  .hr-two2,
+  .hr-three2 {
+    margin: 0 auto;
+    width: 62%;
+    position: relative;
+    bottom: 8rem;
+    height: 1.5px;
+    border: none;
+    background-color: #D3B0FF;
+  }
+  

@@ -1,0 +1,70 @@
+*{
+   background-color: #ffffff;
+ 
+}
+
+.header
+{
+    width: 100%;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top:1rem;
+    margin-left:1rem;
+}
+.black{
+    color: black;
+    font-family: 'PP Cirka';
+}
+
+.blue{
+   
+   color: #6F57E9;
+   font-family: 'PP Cirka';
+}
+
+.btn-login{
+    display: flex;
+    justify-content:end;
+    position: relative;
+    bottom: 19px;
+    /* right: 22px; */
+    width: 50rem;
+    text-decoration: none;
+
+}
+
+#login{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    width: 4rem;
+    border-radius: 12px;
+    border-color: #6F57E9;
+    color:#6F57E9;
+    font-size: large;
+    font-weight: bold;
+    position: relative;
+    top: -44px;
+    right: -59rem;
+    background-color: white;
+    
+    
+    
+}
+#learn{
+    /* margin-right: 20px; */
+    width: 150px;
+    height: 2.5rem;
+    color: white;
+    background-color: #6F57E9;
+    position: relative;
+    bottom: 82px;
+    right: -65rem;
+    border-radius: 12px;
+}
+

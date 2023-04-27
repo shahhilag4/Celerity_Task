@@ -1,0 +1,17 @@
+.centering
+{
+    position:relative;
+    width: 100%;
+    text-align: center;
+    margin-bottom:5rem ;
+}
+
+.setting
+{
+    font-weight: bolder;
+}
+
+.setting2
+{
+    font-weight: 600;
+}

@@ -1,0 +1,209 @@
+
+.logo{
+    display: flex;
+    align-items: center;
+    font-size: 3rem;
+}
+.logo2
+{
+    display: flex;
+    align-items: center;
+    font-size: 3rem;
+    justify-content: center;
+}
+
+.delhi
+{
+    width: 10rem;
+    text-align: center;
+}
+.shanghai
+{
+    width: 12rem !important;
+    text-align: center ;
+}
+
+.express
+{
+    text-align: center;
+    position: relative;
+    left: 10rem;
+    bottom:2rem;
+}
+
+.centering2
+{
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.weight-load{
+    display: flex;
+    border-radius: 6rem;
+    margin: 0.5rem 0rem;
+    justify-content: center;
+
+}
+
+.fonting
+{
+    font-size: small;
+    margin-right:1rem;
+}
+
+.dimensions
+{
+    text-align: center;
+    display: block;
+    width: 80%;
+    margin-left: 4rem;
+}
+
+.pallets
+{
+    font-size: small;
+    display: block;
+}
+
+.weight{
+    width: 12rem;
+    height: 10rem;
+    text-align: center;
+    background-color: #ffffff;
+    margin-right: 2px;
+    border-radius: 12px;
+    box-shadow:  5px 1px 20px #bbb;
+}
+
+.blocker
+{
+    
+    display: block;
+}
+
+.load{
+    background-color: #ffffff;
+    width: 26rem;
+    height: 10rem;
+    margin-left: 2px;
+    border-radius: 12px;
+    box-shadow:  2px 1px 20px #bbb;
+}
+
+
+.icons
+{
+    display: block;
+    margin: 0 auto;
+}
+
+.booking-summary{
+    width: 38rem;
+    height: 12rem;
+    background-color: #FFFFFF;
+    margin: 8px;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0px 1px 87px #BBB;
+    text-align: start;
+}
+
+.hr1 {
+    border: 1px solid #000000;
+    width: 500px;
+    position: relative;
+    right: 40px;
+
+}
+
+/* .booking{
+    position: relative;
+    left: 3rem;
+} */
+
+.cities{
+    display: flex;
+    width: 35rem;
+    position: relative;
+    top: 3rem;
+    font-size: smaller;
+    font-weight: 500;
+   
+}
+
+.seller{
+    padding: 1rem;
+    width: 19rem;
+    height: 8rem;
+    margin: 2px;
+    background-color: #ffffff;
+    box-shadow:  2px 1px 20px #bbb;
+    border-radius: 12px;
+}
+
+.shipimg
+{
+    margin: 0 auto;
+    width: 60%;
+    margin-top: 1rem;
+}
+
+.insurance{
+    padding: 1rem;
+    width: 19rem;
+    height: 8rem;
+    margin: 2px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow:  2px 1px 20px #bbb;
+
+}
+
+.site{
+    display: flex;
+    justify-content: center;
+}
+
+.star
+{
+    background-color: transparent;
+    margin: 0 5px;
+}
+
+.payment-head span{
+    background-color: lightgray;
+    padding: 0.15rem;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 2rem;
+
+}
+
+.payment{
+    width: 23rem;
+    box-shadow:  2px 1px 20px #bbb;
+    border-radius: 12px;
+    padding: 22px;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.allDetail{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+}
+
+
+.check{
+    background-color: #9747FF;
+    color: white;
+    border-radius: 12px;
+    width: 16rem;
+    height: 2.3rem;
+    border: none;
+    margin-top: 35px;
+}

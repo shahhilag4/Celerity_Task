@@ -1,0 +1,22 @@
+.summary{
+    display: flex;
+    justify-content: space-around;
+    width: 60rem;
+    height: 2.5rem;
+    border-radius: 10px;
+    color: darkgray;
+    background-color: white;
+    padding: 6px;
+    position: relative;
+    left: 10rem;
+    box-shadow:  2px 1px 20px #bbb;
+}
+ .summary > div{
+    background-color: white;
+ }
+
+ .hrtwo
+ {
+    height: 2rem;
+    color: #000000;
+ }

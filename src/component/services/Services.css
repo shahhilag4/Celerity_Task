@@ -1,0 +1,56 @@
+.service-detail{
+    display: flex;
+    justify-content: center;
+    gap:1rem;
+}
+
+.card{
+    height: 10rem;
+    width: 15rem;
+    border-radius: 12px;
+    background-color: white;
+    margin: 2px;
+    box-shadow:  2px 1px 20px #bbb;
+
+}
+.para{
+    background-color: white;
+}
+.hr{
+    width: 13rem;
+    /* height: 6px; */
+    position: relative;
+    left: 1rem;
+  background-color: darkgray;
+ 
+}
+
+.card h6{
+    padding:4px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 0.5rem;
+    font-weight: bold;
+}
+
+/* .service-detail{
+    background-color: white;
+} */
+
+.card p{
+    font-size: x-small;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.ser-name{
+    text-align: center;
+    font-weight:bolder;
+    font-size: large;
+    margin-bottom: 1rem;
+}
+.services{
+    position: relative;
+    top: 5rem;
+}
